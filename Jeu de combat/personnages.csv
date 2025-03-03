@@ -1,0 +1,8 @@
+Numero;Nom;Classe;PV;Attaque;Defense;Magie;Def_magique;Vitesse;Nom_fichier;Nom_sprite
+1;Epeiste;Physique;120;120;120;0;120;120;images/Epeiste.jpg;images/Epeiste_sprite.png
+2;Samurai;Physique;190;80;160;0;80;90;images/Samurai.jpg;images/Samurai_sprite.png
+3;Pretre;Magique;180;0;80;80;160;100;images/Pretre.jpg;images/Pretre_sprite.png
+4;Ninja;Physique;120;160;90;0;90;140;images/Ninja.jpg;images/Ninja_sprite.png
+5;Esprit;Magique;130;0;90;160;90;130;images/Esprit.jpg;images/Esprit_sprite.png
+6;Sorciere;Magique;125;0;90;180;90;115;images/Sorciere.jpg;images/Sorciere_sprite.png
+7;Bandit;Physique;130;180;90;0;90;110;images/Bandit.jpg;images/Bandit_sprite.png
